@@ -1,0 +1,8 @@
+{
+  "breakfast": 
+	[
+		{"foodItem": "bagel","price": "$3.99","calories":"120 cal"},
+		{"foodItem": "Cheese Sandwich", "price":"$2.59", "calories":"250 cal"},
+		{"foodItem": "Breakfast Grilled Wrap", "price":"$4.49", "calories":"300 cal"}
+    ]
+}

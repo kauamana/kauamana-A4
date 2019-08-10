@@ -1,0 +1,8 @@
+{
+  "lunch": 
+	[
+		{"foodItem": "Paneer Tikka","price": "$12.50","calories":"450 cal"},
+		{"foodItem": "Samosa Chana", "price":"$11.00", "calories":"600 cal"},
+		{"foodItem": "Vegetable Pakora", "price":"$10.00", "calories":"500 cal"}
+    ]
+}

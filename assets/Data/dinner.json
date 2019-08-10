@@ -1,0 +1,8 @@
+{
+  "dinner": 
+	[
+		{"foodItem": "Korma","price": "$19.50","calories":"350 cal"},
+		{"foodItem": "Beetroot Pasta", "price":"$13.59", "calories":"500 cal"},
+		{"foodItem": "Spicy Kale and Coconut Fried Rice", "price":"$5.90", "calories":"120 cal"}
+    ]
+}
